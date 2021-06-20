@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-	<a href="https://raw.githubusercontent.com/marksisson/urban-broccoli/main/readme.md">
+	<a href="https://raw.githubusercontent.com/marksisson/urban-broccoli/main/README.md">
 		<img src="sample.svg" width="800" height="400" alt="Click to see the source">
 	</a>
 	<br>
