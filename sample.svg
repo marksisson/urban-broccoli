@@ -1,0 +1,16 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+<foreignObject width="100" height="100">
+  <picture>
+    <!-- Use this image if the user's OS setting is light or unset -->
+    <source srcset="photo-light.png" media="(prefers-color-scheme: light) or (prefers-color-scheme: no-preference)">
+    <!-- Use this image if the user's OS setting is dark -->
+    <source srcset="photo-dark.png" media="(prefers-color-scheme: dark)">
+  </picture>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        <ul>
+            <li>text</li>
+        </ul>
+        <!-- Other embed HTML element/text into SVG -->
+    </div>
+</foreignObject>
+</svg>
