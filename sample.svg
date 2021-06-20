@@ -92,8 +92,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+				<img src="https://render.githubusercontent.com/render/math?math=\color{white}x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}">
 			</div>
 		</div>
 	</foreignObject>
